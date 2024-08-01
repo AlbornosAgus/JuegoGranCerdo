@@ -10,7 +10,7 @@ Juego Gran Cerdo es un juego de azar que consta de 5 rondas. En cada ronda, se t
 
 El juego está diseñado para correr en consola. Asegúrate de tener los siguientes archivos de encabezado disponibles:
 
-
+```cpp
 #include <iostream>
 #include <cstdlib>
 #include <Windows.h>
@@ -21,9 +21,13 @@ Instalación
 Para clonar y configurar el proyecto, sigue estos pasos:
 
 Clona el repositorio:
+
+sh
 Copiar código
 git clone https://github.com/AlbornosAgus/JuegoGranCerdo.git
 Navega al directorio del proyecto:
+
+sh
 Copiar código
 cd JuegoGranCerdo
 Compila el proyecto utilizando un compilador de C++ compatible con los requisitos del sistema.
@@ -46,4 +50,4 @@ Agustín Albornos
 Karen Billordo
 Matías Frischeisein
 Contacto
-Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: Agustin Mariano Albornos
+Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: [agusalbornos](https://www.linkedin.com/in/agust%C3%ADn-mariano-albornos-2bb21b213/).
