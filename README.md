@@ -10,7 +10,7 @@ Juego Gran Cerdo es un juego de azar que consta de 5 rondas. En cada ronda, se t
 
 El juego está diseñado para correr en consola. Asegúrate de tener los siguientes archivos de encabezado disponibles:
 
-```cpp
+
 #include <iostream>
 #include <cstdlib>
 #include <Windows.h>
@@ -46,4 +46,4 @@ Agustín Albornos
 Karen Billordo
 Matías Frischeisein
 Contacto
-Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: agusalbornos.
+Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: Agustin Mariano Albornos
