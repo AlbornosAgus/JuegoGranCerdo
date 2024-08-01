@@ -10,7 +10,7 @@ Juego Gran Cerdo es un juego de azar que consta de 5 rondas. En cada ronda, se t
 
 El juego está diseñado para correr en consola. Asegúrate de tener los siguientes archivos de encabezado disponibles:
 
-```cpp
+
 #include <iostream>
 #include <cstdlib>
 #include <Windows.h>
@@ -20,34 +20,41 @@ El juego está diseñado para correr en consola. Asegúrate de tener los siguien
 Instalación
 Para clonar y configurar el proyecto, sigue estos pasos:
 
-Clona el repositorio:
+## Instalación
 
+Para clonar y configurar el proyecto, sigue estos pasos:
 
-Copiar código
+1. Clona el repositorio:
+    ```sh
 git clone https://github.com/AlbornosAgus/JuegoGranCerdo.git
-Navega al directorio del proyecto:
+    ```
 
-
-Copiar código
-cd JuegoGranCerdo
+2. Navega al directorio del proyecto:
+    ```sh
+     cd JuegoGranCerdo
 Compila el proyecto utilizando un compilador de C++ compatible con los requisitos del sistema.
 
-Uso
+## Uso
 El juego sigue las reglas descritas anteriormente. Se juega en la consola y puedes interactuar con el juego a través de la entrada de texto.
 
-Contribuciones
-Aceptamos contribuciones que mejoren la eficiencia del juego, ya sea en el código o en la parte gráfica. Si deseas contribuir, por favor, sigue las siguientes pautas:
+## Contribuciones
 
-Realiza un fork del repositorio.
-Crea una rama para tu contribución (git checkout -b feature/nueva-funcionalidad).
-Realiza tus cambios y haz commit de ellos.
-Envía un pull request describiendo tus cambios.
-Licencia
+ Acepto contribuciones de cualquier aspecto para mejorar el proyecto. Si deseas contribuir, sigue las siguientes pautas: 
+
+ - Realiza un fork del repositorio.
+ - Crea una rama para tu contribución (`git checkout -b feature/nueva-funcionalidad`).
+ - Realiza tus cambios y haz commit de ellos.
+ - Envía un pull request describiendo tus cambios.
+
+## Licencia
+
 Este proyecto no tiene una licencia específica.
 
-Autores
-Agustín Albornos
-Karen Billordo
-Matías Frischeisein
-Contacto
-Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: [agusalbornos](https://www.linkedin.com/in/agust%C3%ADn-mariano-albornos-2bb21b213/).
+## Autores
+ -Agustín Albornos
+ -Karen Billordo
+ -Matías Frischeisein
+## Contacto
+
+Para cualquier pregunta o soporte, puedes contactarme a través de mi LinkedIn: [Agustin Mariano Albornos](https://www.linkedin.com/in/agust%C3%ADn-mariano-albornos-2bb21b213/).
+
