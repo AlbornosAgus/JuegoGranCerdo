@@ -22,12 +22,12 @@ Para clonar y configurar el proyecto, sigue estos pasos:
 
 Clona el repositorio:
 
-sh
+
 Copiar código
 git clone https://github.com/AlbornosAgus/JuegoGranCerdo.git
 Navega al directorio del proyecto:
 
-sh
+
 Copiar código
 cd JuegoGranCerdo
 Compila el proyecto utilizando un compilador de C++ compatible con los requisitos del sistema.
