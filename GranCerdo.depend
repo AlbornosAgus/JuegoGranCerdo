@@ -3,3 +3,182 @@
 	<iostream>
 	<cstdlib>
 
+1717525635 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\juegograncerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1717537834 c:\users\admin\desktop\utn\laboratorio 1\trabajo final\juegograncerdo\funciones.h
+
+1717563770 source:c:\users\karen\desktop\trabajopractico\main.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718832386 c:\users\karen\desktop\trabajopractico\funciones.h
+
+1718833704 source:c:\users\karen\desktop\trabajopractico\condicionesdados.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718831847 source:c:\users\karen\desktop\trabajopractico\interfaces.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718832459 source:c:\users\karen\desktop\trabajopractico\menu.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718835081 source:c:\users\karen\desktop\trabajopractico\resultados.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718833704 source:c:\users\karen\desktop\trabajopractico\comienzajuego.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719263979 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\comienzajuego.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719207031 c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\funciones.h
+
+1719264984 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\condicionesdados.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718831848 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\interfaces.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1717563772 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\main.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719265355 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\menu.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718835082 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\trabajopractico\resultados.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719951950 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\comienzajuego.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719207031 c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\funciones.h
+
+1719441499 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\condicionesdados.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1718831848 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\interfaces.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1717563772 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719265355 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\menu.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+
+1719951815 source:c:\users\admin\desktop\utn\laboratorio 1\trabajo final\karen\tpgrancerdo\resultados.cpp
+	<iostream>
+	<cstdlib>
+	<Windows.h>
+	<cstdlib>
+	<time.h>
+	<iomanip>
+	"funciones.h"
+

@@ -32,7 +32,15 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Funciones.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="comienzaJuego.cpp" />
+		<Unit filename="condicionesDados.cpp" />
+		<Unit filename="interfaces.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="menu.cpp" />
+		<Unit filename="resultados.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
